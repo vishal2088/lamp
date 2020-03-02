@@ -67,8 +67,13 @@
 			</div>
 			<div class="collapse navbar-collapse" id="bs-nav-demo">
 				<ul class="nav navbar-nav">
+<<<<<<< HEAD
 					<li><a href="about.php">vishal</a></li>
 					<li><a href="contact.php">Contact</a></li>
+=======
+					<li><a href="about.php">About12345</a></li>
+					<li><a href="contact.php">Contact12ffd3</a></li>
+>>>>>>> edfbce72b2b66d6971329bd44f1541342d0c8b39
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="login.php">Login</a></li>
@@ -91,6 +96,7 @@
 					<a href="signup.php"><button type="button" class="btn norm">Register</button></a>
 					<a href="hq.php"><button type="button" class="btn norm">HQ</button></a>
 				</p>
+				<!-- comment -->
 				<p class="center">
 				  	<a href="contact.php"><button type="button" class="btn norm">Contact Us</button></a>
 					<a href="createdby.php"><button type="button" class="btn norm">Created By</button></a>
