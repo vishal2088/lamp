@@ -91,6 +91,7 @@
 					<a href="signup.php"><button type="button" class="btn norm">Register</button></a>
 					<a href="hq.php"><button type="button" class="btn norm">HQ</button></a>
 				</p>
+				<!-- comment -->
 				<p class="center">
 				  	<a href="contact.php"><button type="button" class="btn norm">Contact Us</button></a>
 					<a href="createdby.php"><button type="button" class="btn norm">Created By</button></a>
