@@ -67,13 +67,11 @@
 			</div>
 			<div class="collapse navbar-collapse" id="bs-nav-demo">
 				<ul class="nav navbar-nav">
-<<<<<<< HEAD
+< HEAD
 					<li><a href="about.php">vishal</a></li>
 					<li><a href="contact.php">Contact</a></li>
-=======
-					<li><a href="about.php">About12345</a></li>
-					<li><a href="contact.php">Contact12ffd3</a></li>
->>>>>>> edfbce72b2b66d6971329bd44f1541342d0c8b39
+					<li><a href="about.php">About</a></li>
+					<li><a href="contact.php">Contact</a></li>
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="login.php">Login</a></li>
