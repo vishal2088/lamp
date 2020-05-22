@@ -70,7 +70,7 @@
 < HEAD
 					<li><a href="about.php">vishal</a></li>
 					<li><a href="contact.php">Contact</a></li>
-					<li><a href="about.php">About</a></li>
+					<li><a href="about.php">Abouaaaaat</a></li>
 					<li><a href="contact.php">Contact</a></li>
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
