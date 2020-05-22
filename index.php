@@ -90,7 +90,7 @@
 				<p>What would you like to do?</p>
 
 				<p class="center" >
-				  	<a href="login.php"><button type="button" class="btn norm">Log In</button></a>
+				  	<a href="login.php"><button type="button" class="btn norm">Logq In</button></a>
 					<a href="signup.php"><button type="button" class="btn norm">Register</button></a>
 					<a href="hq.php"><button type="button" class="btn norm">HQ</button></a>
 				</p>
